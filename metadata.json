@@ -1,0 +1,6 @@
+{
+  "name": "Antivirus Security Scanner",
+  "description": "Minimalist antivirus scanner prototype providing email security diagnostics, vulnerability assessment, and detailed threat reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
